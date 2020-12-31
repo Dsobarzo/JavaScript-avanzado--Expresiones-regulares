@@ -1,0 +1,4 @@
+Linkedin Learning:
+https://www.linkedin.com/learning/javascript-avanzado-expresiones-regulares/consideraciones-finales-del-curso-expresiones-regulares
+GitHub:
+https://github.com/Dsobarzo/JavaScript-avanzado--Expresiones-regulares
