@@ -5,4 +5,4 @@ var expresion2 = /Hola Mundo/;
 
 console.log(expresion2.test('El primer programa es Hola Mundo'));
 
-console.log (expresion1.test( '123'));
+console.log (expresion1.test( 'abc12'));
